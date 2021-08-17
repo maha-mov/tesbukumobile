@@ -1,0 +1,1 @@
+﻿var textForPages = ["BOT1010                                                     DOWNLOAD APK HERE :                                                              s.id/bot1010","","","","",""];
